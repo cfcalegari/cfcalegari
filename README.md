@@ -1,5 +1,8 @@
 ## Hi there 👋
-Baby's first GitHub repo <3 enjoy this photo of a senior cat named Handsome I found on Petfinder this morning. 
+Baby's first GitHub repo <3
+
+# Halloween Candy
+My favorite candy is Butterfingers.
 <!--
 **cfcalegari/cfcalegari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
